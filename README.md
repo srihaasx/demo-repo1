@@ -1,2 +1,3 @@
 # demo-repo1
-learning git
+ some description
+ 
